@@ -1,5 +1,5 @@
 ## Purpose of the project
-<p> make some fake rating for user and items (which can be movies, songs) and try to derive their embeddings
+<p> make some fake rating data for users and items (which can be movies, songs) and try to derive their embeddings
 
 ## rating_based_embedding.ipynb
 <p> where the experiment runs
